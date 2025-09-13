@@ -1,9 +1,10 @@
-**Página Travel:**
-<img width="1368" height="456" alt="image" src="https://github.com/user-attachments/assets/a545b05d-0541-49a0-9d37-108f34507901" />
+**Travels Page:**
+<img width="1010" height="615" alt="image" src="https://github.com/user-attachments/assets/d3142f9c-50aa-4fc8-b5d5-fcb0eaba838c" />
 
-**Página Bookings:**  
-<img width="1673" height="552" alt="image" src="https://github.com/user-attachments/assets/b16114f5-62de-4ff7-b72b-3953b738b802" />
+**Bookings Page:**  
+<img width="1172" height="583" alt="image" src="https://github.com/user-attachments/assets/38fd9ae2-c37f-49c0-9d69-18453a837f24" />
 
-**Página Booking Supplements:** 
-<img width="1449" height="517" alt="image" src="https://github.com/user-attachments/assets/4723f339-cd59-4fbe-b4c2-b98148f1fc40" />
+
+**Booking Supplements Page:** 
+<img width="806" height="429" alt="image" src="https://github.com/user-attachments/assets/dbed2cea-177a-40ba-b8e2-29b8135838c4" />
 
